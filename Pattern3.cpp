@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-/*  Printing Reverse Pattern   n = 4 
+/*  Printing Counting Pattern   n = 4 
      1 2 3 
      4 5 6 
      7 8 9 
