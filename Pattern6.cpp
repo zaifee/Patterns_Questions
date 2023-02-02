@@ -13,7 +13,7 @@ int main()
 {
     int n;
     cin>>n;
-    /*  Printing Reverse Pattern   n = 4 
+    /*  Printing Counting triangle Pattern   n = 4 
      1
      2 3  
      4 5 6
