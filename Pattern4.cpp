@@ -6,7 +6,8 @@ int main()
 {
     int n;
     cin>>n;
-    /*  Printing Reverse Pattern   n = 4 
+    /*  Printing the triangle Pyramid with row no.
+    = 4 
      1
      2 2  
      3 3 3
